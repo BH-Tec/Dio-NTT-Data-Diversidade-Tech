@@ -30,7 +30,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### Dominando Algoritmos Básicos com Desafios de Códigos JavaScript
 
-- Somando Múltiplos [ver aqui]()
+- Somando Múltiplos [ver aqui](./DesafioBasico1/main.js)
 - Triângulo de Moedas [ver aqui]()
 - Soma de Pares Consecutivos [ver aqui]()
 - Calculando o Perímetro de um Triângulo Equilátero [ver aqui]()
