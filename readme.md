@@ -32,7 +32,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - Somando Múltiplos [ver aqui](./DesafioBasico1/main.js)
 - Triângulo de Moedas [ver aqui](./DesafioBasico2/main.js)
-- Soma de Pares Consecutivos [ver aqui]()
+- Soma de Pares Consecutivos [ver aqui](./DesafioBasico3/main.js)
 - Calculando o Perímetro de um Triângulo Equilátero [ver aqui]()
 - Subtraindo o Produto e a Soma de um Número [ver aqui]()
 
