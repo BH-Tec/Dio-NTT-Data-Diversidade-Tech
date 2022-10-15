@@ -28,26 +28,18 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📚 Lista dos Desafios
 
-### Desafios Intermediários I - Formação Typescript
+### Dominando Algoritmos Básicos com Desafios de Códigos JavaScript
 
-- [ver aqui]()
-- [ver aqui]()
-- [ver aqui]()
+- Somando Múltiplos [ver aqui]()
+- Triângulo de Moedas [ver aqui]()
+- Soma de Pares Consecutivos [ver aqui]()
+- Calculando o Perímetro de um Triângulo Equilátero [ver aqui]()
+- Subtraindo o Produto e a Soma de um Número [ver aqui]()
 
-### Desafios Intermediários II - Formação Typescript
+### Dominando Algoritmos Intermediários com Desafios de Códigos JavaScript
 
-- [ver aqui]()
-- [ver aqui]()
-- [ver aqui]()
-
-### Desafios Avançados - Formação Typescript
-
-- [ver aqui]()
-- [ver aqui]()
-- [ver aqui]()
-
-### Desafios Avançados II - Formação Typescript
-
-- [ver aqui]()
-- [ver aqui]()
-- [ver aqui]()
+- Porcentagem de diferença entre dois números [ver aqui]()
+- Fatorial desajeitado [ver aqui](./DesafioIntermediario2/main.js)
+- Numeral romano [ver aqui]()
+- Duplicando zeros [ver aqui]()
+- Removendo letras duplicadas [ver aqui]()
