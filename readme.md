@@ -38,7 +38,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### Dominando Algoritmos Intermediários com Desafios de Códigos JavaScript
 
-- Porcentagem de diferença entre dois números [ver aqui]()
+- Porcentagem de diferença entre dois números [ver aqui](./DesafioIntermediario1/main.js)
 - Fatorial desajeitado [ver aqui](./DesafioIntermediario2/main.js)
 - Numeral romano [ver aqui]()
 - Duplicando zeros [ver aqui]()
