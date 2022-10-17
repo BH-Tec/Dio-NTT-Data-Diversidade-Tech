@@ -26,6 +26,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
+<h2 align="center">
+  <img src="./assets/desafios.png" border="1px solid black">
+</h2>
+
 ## 📚 Lista dos Desafios
 
 ### Dominando Algoritmos Básicos com Desafios de Códigos JavaScript
