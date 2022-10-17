@@ -42,4 +42,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Fatorial desajeitado [ver aqui](./DesafioIntermediario2/main.js)
 - Numeral romano [ver aqui](./DesafioIntermediario3/main.js)
 - Duplicando zeros [ver aqui](./DesafioIntermediario4/main.js)
-- Removendo letras duplicadas [ver aqui]()
+- Removendo letras duplicadas [ver aqui](./DesafioIntermediario5/main.js)
